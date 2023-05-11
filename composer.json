@@ -1,0 +1,12 @@
+{
+  "name": "davidkur/328/pets",
+  "authors": [
+    {
+      "name": "David Kurilla",
+      "email": "kurilla.david@students.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
